@@ -1,0 +1,301 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Description/@EntryValue">CRUD Feature</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Text/@EntryValue">$FEATURE$&#xD;
+$NAMESPACE$&#xD;
+$HEADER$&#xD;
+Dummy document.$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/CustomProperties/=Extension/@EntryIndexedValue">txt</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/CustomProperties/=FileName/@EntryIndexedValue">Feature name</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=FEATURE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=FEATURE/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=FEATURE/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=FEATURE/Order/@EntryValue">0</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=FEATURE/InitialSection/@EntryValue">A3DD255AB55FBA4CA93D8598865B5847</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=HEADER/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=HEADER/Expression/@EntryValue">fileheader()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=HEADER/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=HEADER/Order/@EntryValue">1</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=HEADER/InitialSection/@EntryValue">A3DD255AB55FBA4CA93D8598865B5847</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=NAMESPACE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=NAMESPACE/Expression/@EntryValue">fileDefaultNamespace()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=NAMESPACE/Order/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Field/=NAMESPACE/InitialSection/@EntryValue">A3DD255AB55FBA4CA93D8598865B5847</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=A3DD255AB55FBA4CA93D8598865B5847/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=A3DD255AB55FBA4CA93D8598865B5847/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=A3DD255AB55FBA4CA93D8598865B5847/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$\Commands" File="Create$NAME$.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=A3DD255AB55FBA4CA93D8598865B5847/Order/@EntryValue">0</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=A3DD255AB55FBA4CA93D8598865B5847/SectionPlain/Text/@EntryValue">using Appeaser;&#xD;
+using NHibernate;&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+	public class Create$FEATURE$ &#xD;
+	{&#xD;
+		public class Handler : ICommandHandler&lt;Command, Result&gt;&#xD;
+		{&#xD;
+			private readonly ISession _session;&#xD;
+&#xD;
+			public Handler(ISession session)&#xD;
+			{&#xD;
+				_session = session;&#xD;
+			}&#xD;
+&#xD;
+			public Result Handle(Command command)&#xD;
+			{&#xD;
+				return new Result();&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Command : ICommand&lt;Result&gt;&#xD;
+		{&#xD;
+			public Command()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Result&#xD;
+		{&#xD;
+			public Result()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+	}&#xD;
+}$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=B82CD5AF59A54844A7268AA524EBBE06/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=B82CD5AF59A54844A7268AA524EBBE06/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=B82CD5AF59A54844A7268AA524EBBE06/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$\Commands" File="Update$NAME$.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=B82CD5AF59A54844A7268AA524EBBE06/Order/@EntryValue">1</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=B82CD5AF59A54844A7268AA524EBBE06/SectionPlain/Text/@EntryValue">using Appeaser;&#xD;
+using NHibernate;&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+	public class Update$FEATURE$ &#xD;
+	{&#xD;
+		public class Handler : ICommandHandler&lt;Command, Result&gt;&#xD;
+		{&#xD;
+			private readonly ISession _session;&#xD;
+&#xD;
+			public Handler(ISession session)&#xD;
+			{&#xD;
+				_session = session;&#xD;
+			}&#xD;
+&#xD;
+			public Result Handle(Command command)&#xD;
+			{&#xD;
+				return new Result();&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Command : ICommand&lt;Result&gt;&#xD;
+		{&#xD;
+			public Command()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Result&#xD;
+		{&#xD;
+			public Result()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+	}&#xD;
+}$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=44F19A6D3BAB7D4E8A3137F23AD37140/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=44F19A6D3BAB7D4E8A3137F23AD37140/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=44F19A6D3BAB7D4E8A3137F23AD37140/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$\Commands" File="Delete$NAME$.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=44F19A6D3BAB7D4E8A3137F23AD37140/Order/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=44F19A6D3BAB7D4E8A3137F23AD37140/SectionPlain/Text/@EntryValue">using Appeaser;&#xD;
+using NHibernate;&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+	public class Delete$FEATURE$ &#xD;
+	{&#xD;
+		public class Handler : ICommandHandler&lt;Command, Result&gt;&#xD;
+		{&#xD;
+			private readonly ISession _session;&#xD;
+&#xD;
+			public Handler(ISession session)&#xD;
+			{&#xD;
+				_session = session;&#xD;
+			}&#xD;
+&#xD;
+			public Result Handle(Command command)&#xD;
+			{&#xD;
+				return new Result();&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Command : ICommand&lt;Result&gt;&#xD;
+		{&#xD;
+      public int Id { get; set; }&#xD;
+			public Command(int id)&#xD;
+			{&#xD;
+			   Id = id;&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Result&#xD;
+		{&#xD;
+			public Result()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+	}&#xD;
+}$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=1A1F24C958626F4B8BED04CD03C9F001/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=1A1F24C958626F4B8BED04CD03C9F001/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=1A1F24C958626F4B8BED04CD03C9F001/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$\Queries" File="Get$NAME$.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=1A1F24C958626F4B8BED04CD03C9F001/Order/@EntryValue">3</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=1A1F24C958626F4B8BED04CD03C9F001/SectionPlain/Text/@EntryValue">using Appeaser;&#xD;
+using NHibernate;&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+	public class Get$FEATURE$ &#xD;
+	{&#xD;
+		public class Handler : IQueryHandler&lt;Request, Result&gt;&#xD;
+		{&#xD;
+			private readonly ISession _session;&#xD;
+&#xD;
+			public Handler(ISession session)&#xD;
+			{&#xD;
+				_session = session;&#xD;
+			}&#xD;
+&#xD;
+			public Result Handle(Request request)&#xD;
+			{&#xD;
+				return new Result();&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Request : IQuery&lt;Result&gt;&#xD;
+		{&#xD;
+			public int Id { get; set; }&#xD;
+			public Request(int id)&#xD;
+			{&#xD;
+			   Id = id;&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Result&#xD;
+		{&#xD;
+			public Result()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+	}&#xD;
+}$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=BA81386C91254047A82CBC359F8F833B/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=BA81386C91254047A82CBC359F8F833B/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=BA81386C91254047A82CBC359F8F833B/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$\Queries" File="Get$NAME$List.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=BA81386C91254047A82CBC359F8F833B/Order/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=BA81386C91254047A82CBC359F8F833B/SectionPlain/Text/@EntryValue">using Appeaser;&#xD;
+using NHibernate;&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+	public class Get$FEATURE$List &#xD;
+	{&#xD;
+		public class Handler : IQueryHandler&lt;Request, Result&gt;&#xD;
+		{&#xD;
+			private readonly ISession _session;&#xD;
+&#xD;
+			public Handler(ISession session)&#xD;
+			{&#xD;
+				_session = session;&#xD;
+			}&#xD;
+&#xD;
+			public Result Handle(Request request)&#xD;
+			{&#xD;
+				return new Result();&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Request : IQuery&lt;Result&gt;&#xD;
+		{&#xD;
+			public Request()&#xD;
+			{&#xD;
+&#xD;
+			}&#xD;
+		}&#xD;
+&#xD;
+		public class Result&#xD;
+		{&#xD;
+			public Result()&#xD;
+			{&#xD;
+			&#xD;
+			}&#xD;
+		}&#xD;
+	}&#xD;
+}$END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=81A033DFD4020641B2F10A7821E5E883/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=81A033DFD4020641B2F10A7821E5E883/LocationSelectorName/@EntryValue">manual</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=81A033DFD4020641B2F10A7821E5E883/LocationSelectorConfig/@EntryValue">&lt;RelativeConfig Folder="$NAME$" File="$NAME$Controller.cs" /&gt;</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=81A033DFD4020641B2F10A7821E5E883/Order/@EntryValue">5</s:Int64>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=17E3BBD78A7F644F91A2045353EDBE17/Section/=81A033DFD4020641B2F10A7821E5E883/SectionPlain/Text/@EntryValue">using System.Web.Http;&#xD;
+&#xD;
+using Appeaser;&#xD;
+&#xD;
+$HEADER$namespace $NAMESPACE$&#xD;
+{&#xD;
+    [RoutePrefix("$FEATURE$")]&#xD;
+    public class $FEATURE$Controller : ApiController&#xD;
+    {&#xD;
+        private readonly IMediator _mediator;&#xD;
+&#xD;
+        public $FEATURE$Controller(IMediator mediator)&#xD;
+        {&#xD;
+            _mediator = mediator;&#xD;
+        }&#xD;
+&#xD;
+        [HttpPut]&#xD;
+        public IHttpActionResult Create$FEATURE$(Create$FEATURE$.Command command)&#xD;
+        {&#xD;
+            var result = _mediator.Send(command);&#xD;
+            return Ok(result);&#xD;
+        }&#xD;
+&#xD;
+        [HttpPost]&#xD;
+        public IHttpActionResult Update$FEATURE$(Update$FEATURE$.Command command)&#xD;
+        {&#xD;
+            var result = _mediator.Send(command);&#xD;
+            return Ok(result);&#xD;
+        }&#xD;
+&#xD;
+        [Route("{id}")]&#xD;
+        [HttpDelete]&#xD;
+        public IHttpActionResult Delete$FEATURE$(int id)&#xD;
+        {&#xD;
+            var result = _mediator.Send(new Delete$FEATURE$.Command(id));&#xD;
+            return Ok(result);&#xD;
+        }&#xD;
+&#xD;
+        [HttpGet]&#xD;
+        public IHttpActionResult Get$FEATURE$List()&#xD;
+        {&#xD;
+            var result = _mediator.Request(new Get$FEATURE$List.Request());&#xD;
+            return Ok(result);&#xD;
+        }&#xD;
+&#xD;
+        [Route("{id}")]&#xD;
+        [HttpGet]&#xD;
+        public IHttpActionResult Get$FEATURE$(int id)&#xD;
+        {&#xD;
+            var result = _mediator.Request(new Get$FEATURE$.Request(id));&#xD;
+            return Ok(result);&#xD;
+        }&#xD;
+    }&#xD;
+}&#xD;
+$END$</s:String></wpf:ResourceDictionary>
